@@ -1,0 +1,18 @@
+Epoch [1/1000], Loss: 1.0180
+Epoch [2/1000], Loss: 0.9624
+Epoch [3/1000], Loss: 0.6895
+Epoch [4/1000], Loss: 0.4232
+Epoch [5/1000], Loss: 0.3358
+Epoch [6/1000], Loss: 0.3108
+Epoch [7/1000], Loss: 0.2932
+Epoch [8/1000], Loss: 0.2855
+Epoch [9/1000], Loss: 0.2779
+Epoch [10/1000], Loss: 0.2744
+Epoch [11/1000], Loss: 0.2735
+Epoch [12/1000], Loss: 0.2517
+Epoch [13/1000], Loss: 0.2443
+Epoch [14/1000], Loss: 0.2336
+Epoch [15/1000], Loss: 0.2357
+Epoch [16/1000], Loss: 0.2383
+Early stopping triggered.
+Test Accuracy: 0.8750
